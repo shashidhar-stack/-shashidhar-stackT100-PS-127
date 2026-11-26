@@ -76,8 +76,9 @@ The engine also includes a seeded synthetic dataset generator for safe developme
 Python 3.10+ is required.
 
 ```powershell
-git clone https://github.com/syedibad52/T100-PS-127.git
-cd T100-PS-127
+```bash
+git clone https://github.com/shashidhar-stack/-shashidhar-stackT100-PS-127.git
+cd -shashidhar-stackT100-PS-127
 python -m pip install -r requirements.txt
 ```
 
